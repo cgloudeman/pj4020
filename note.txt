@@ -1,0 +1,1 @@
+In the season_40before20.pdf and histogram_40before20.pdf plots, the 1999 season only had 50 regular season games. No team got to 40 wins that season, but 6 teams made it to 24 wins before 12 losses (5 made it to 25 before 12). 40*50/82=24.4
